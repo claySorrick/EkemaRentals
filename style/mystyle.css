@@ -16,6 +16,15 @@ Distributed by Tooplate.com
  */
 
 
+ 
+ body{
+	background-color: #757575;
+ }
+ 
+ 
+ 
+ 
+ 
 .allcontain{
 	max-width: 1366px;
 	margin-left: auto;
@@ -403,6 +412,7 @@ font-size: 10pt;
 }
 #navbarmidle{
 		padding-left: 6.6%;
+		padding-top: 13px;
 		padding-bottom: 26px;
 		width: 100%;
  
